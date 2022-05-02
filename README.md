@@ -19,3 +19,8 @@ https://github.com/01rohitjain/helm-worpress-chart.git
 ## Now you can install helm package
 
 ==>> helm install <release-name> Wordpress-Helm/
+
+Now you can check in kubernetes using below command
+
+==>> kubectl get pods
+==>> kubectl get svc
